@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
+ * main - print alphabets without char and use putchar
  *
- * main - prints alphabets without char and use putchar
- *
- * Return: Always (0)
+ * Return: always (0)
  *
  */
 int main(void)
